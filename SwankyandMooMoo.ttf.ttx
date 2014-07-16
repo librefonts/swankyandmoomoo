@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="SwankyandMooMoo.ttf.GlyphOrder.ttx"/>
+  <head src="SwankyandMooMoo.ttf._h_e_a_d.ttx"/>
+  <hhea src="SwankyandMooMoo.ttf._h_h_e_a.ttx"/>
+  <maxp src="SwankyandMooMoo.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="SwankyandMooMoo.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="SwankyandMooMoo.ttf._h_m_t_x.ttx"/>
+  <cmap src="SwankyandMooMoo.ttf._c_m_a_p.ttx"/>
+  <prep src="SwankyandMooMoo.ttf._p_r_e_p.ttx"/>
+  <loca src="SwankyandMooMoo.ttf._l_o_c_a.ttx"/>
+  <glyf src="SwankyandMooMoo.ttf._g_l_y_f.ttx"/>
+  <name src="SwankyandMooMoo.ttf._n_a_m_e.ttx"/>
+  <post src="SwankyandMooMoo.ttf._p_o_s_t.ttx"/>
+  <gasp src="SwankyandMooMoo.ttf._g_a_s_p.ttx"/>
+  <FFTM src="SwankyandMooMoo.ttf.F_F_T_M_.ttx"/>
+</ttFont>
